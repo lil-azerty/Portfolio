@@ -5,22 +5,22 @@ import type { iconPaths } from './IconPaths';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
-	{ label: 'Accueil', href: '/' },
-	{ label: 'Projet', href: '/work/' },
-	{ label: 'A propos', href: '/about/' },
+	{ label: 'Accueil', href: '/Portfolio' },
+	{ label: 'Projet', href: '/Portfolio/work' },
+	{ label: 'A propos', href: '/Portfolio/about' },
 ];
 
 /** Icon links to social media — edit these with links to your profiles! */
 const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[] = [
-	{ label: 'Twitter', href: 'https://twitter.com/me', icon: 'twitter-logo' },
-	{ label: 'GitHub', href: 'https://github.com/me', icon: 'github-logo' },
-	{ label: 'YouTube', href: 'https://www.youtube.com/@me/', icon: 'youtube-logo' },
+	{ label: 'GitHub', href: 'https://github.com/lil-azerty', icon: 'github-logo' },
+	{ label: 'Linkdin', href: 'https://www.linkedin.com/in/alan-delagreverie-94a684240/', icon: 'linkedin-logo' },
+	{ label: 'Twitter', href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ', icon: 'twitter-logo' },
 ];
 ---
 
 <nav>
 	<div class="menu-header">
-		<a href="/" class="site-title">
+		<a href="/Portfolio" class="site-title">
 			<Icon icon="terminal-window" color="var(--accent-regular)" size="1.6em" gradient />
 			Alan Delagreverie
 		</a>
