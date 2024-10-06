@@ -4,13 +4,13 @@ Bienvenue sur le repository de mon portfolio personnel. Ce projet présente mon 
 
 ## 🚀 Démo
 
-Vous pouvez visiter mon portfolio en ligne à l'adresse suivante : [https://monportfolio.com](https://lil-azerty.github.io/Portfolio/)
+Vous pouvez visiter mon portfolio en ligne à l'adresse suivante : [https://lil-azerty.github.io/Portfolio/](https://lil-azerty.github.io/Portfolio/)
 
 ## 📝 À propos
 
-- Ce portfolio a été créé pour mettre en avant mes compétences et mes réalisations dans le domaine du développement. Vous y trouverez :
+Ce portfolio a été créé pour mettre en avant mes compétences et mes réalisations dans le domaine du développement. Vous y trouverez :
 
-## 💻 Une sélection de mes projets :
+-💻 Une sélection de mes projets
 
 - 🛠️ Mes compétences techniques
 - ✨ Des informations sur mon parcours professionnel
@@ -46,4 +46,4 @@ Les contributions sont toujours les bienvenues ! Si vous avez des suggestions po
 Si vous avez des questions ou souhaitez collaborer, vous pouvez me contacter via :
 
 - Email : alandelapro@gmail.com
-- LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/alan-delagreverie-94a684240/)
+- LinkedIn : [LinkedIn](https://www.linkedin.com/in/alan-delagreverie-94a684240/)
