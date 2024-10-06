@@ -1,30 +1,49 @@
-# Astro Starter Kit: Portfolio
+# 📁 Mon Portfolio
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+Bienvenue sur le repository de mon portfolio personnel. Ce projet présente mon travail, mes compétences et mes réalisations dans le domaine du développement web (ou toute autre spécialité). Vous y trouverez des projets, des expériences et d'autres informations pertinentes sur moi.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## 🚀 Démo
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Vous pouvez visiter mon portfolio en ligne à l'adresse suivante : [https://monportfolio.com](https://lil-azerty.github.io/Portfolio/)
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## 📝 À propos
 
-## 🧞 Commands
+- Ce portfolio a été créé pour mettre en avant mes compétences et mes réalisations dans le domaine du développement. Vous y trouverez :
 
-All commands are run from the root of the project, from a terminal:
+## 💻 Une sélection de mes projets :
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+- 🛠️ Mes compétences techniques
+- ✨ Des informations sur mon parcours professionnel
+- 📞 Une page de contact pour me joindre facilement
 
-## 👀 Want to learn more?
+## 🛠️ Technologies utilisées :
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Voici les principales technologies que j'ai utilisées pour construire ce portfolio :
+
+- Astro.Build : l'essentiel du site a été crée grace a ce Framework [https://astro.build/](https://astro.build/)
+- HTML5 & CSS3 : pour la structure et le style des pages
+- JavaScript : pour ajouter de l'interactivité
+
+## 🔧 Fonctionnalités
+
+- Page d'accueil dynamique
+- Liste interactive de projets réalisés
+- Section de contact avec formulaire pour me joindre
+- Responsive Design pour une compatibilité sur tous les appareils
+
+## 🤝 Contribuer
+
+Les contributions sont toujours les bienvenues ! Si vous avez des suggestions pour améliorer ce portfolio, n'hésitez pas à les proposer :
+
+- Forkez le repository
+- Créez une nouvelle branche (git checkout -b ma-nouvelle-feature)
+- Committez vos modifications (git commit -m 'Ajout d'une nouvelle feature')
+- Pushez vers la branche (git push origin ma-nouvelle-feature)
+- Créez une Pull Request
+
+## 📧 Contact
+
+Si vous avez des questions ou souhaitez collaborer, vous pouvez me contacter via :
+
+- Email : alandelapro@gmail.com
+- LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/alan-delagreverie-94a684240/)
